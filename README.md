@@ -29,7 +29,7 @@ Le TP est structuré en 3 parties :
 
 ## 📁 Structure du projet
 
-- `tp1_deep_learning.pdf` : Rapport complet du TP avec explications, codes et résultats
+- `rapport_tp_deep_learning.pdf` : Rapport complet du TP avec explications, codes et résultats
 - `cnn_cifar10.py` : Implémentation du CNN sur CIFAR-10
 - `cnn_vs_rnn_mnist.py` : Implémentation et comparaison des modèles CNN et LSTM sur MNIST
 - `autoencoder_cifar10.py` : Implémentation de l’autoencodeur sur CIFAR-10
